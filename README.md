@@ -1,2 +1,2 @@
-# InteractiveSketch in Prcessing.py
+# InteractiveSketch in Processing.py
 Hommage to Herbert Bayer
